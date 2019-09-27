@@ -1,3 +1,8 @@
 I see two moons in the sky.
 Sandy and there's a robot looking at me.
+<<<<<<< HEAD
+Making a change to Mars
+=======
+B edit
+>>>>>>> 53483c0a54060def3466472c5e2cdb1270e59ab6
 Making a change to Mars
